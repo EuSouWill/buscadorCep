@@ -1,0 +1,30 @@
+[
+  {
+    "cep": "88136-202",
+    "logradouro": "Rua Arcendino dos Santos",
+    "complemento": "",
+    "localidade": "Palhoça",
+    "uf": "SC"
+  },
+  {
+    "cep": "88136-000",
+    "logradouro": "Rua Tomáz Domingos da Silveira",
+    "complemento": "de 2834/2835 ao fim",
+    "localidade": "Palhoça",
+    "uf": "SC"
+  },
+  {
+    "cep": "69076-050",
+    "logradouro": "Rua José Maria Pinto",
+    "complemento": "",
+    "localidade": "Manaus",
+    "uf": "AM"
+  },
+  {
+    "cep": "88136-201",
+    "logradouro": "Rua Candido dos Santos",
+    "complemento": "",
+    "localidade": "Palhoça",
+    "uf": "SC"
+  }
+]
